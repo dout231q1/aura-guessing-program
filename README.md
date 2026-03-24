@@ -1,4 +1,5 @@
 aura-guessing-program
+
 a simple script i made to mock my friend lol
 
 so this is my first project in python which i made it and posted to github
@@ -10,5 +11,6 @@ in this script i tried some features like
 - `input`
 - `if / else conditions`
 - `loops logic`
+- 
 etc...
 
